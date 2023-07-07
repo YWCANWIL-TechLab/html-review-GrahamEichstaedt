@@ -1,0 +1,25 @@
+body,
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.125rem;
+    text-align: left;
+}
+
+.container {
+    margin: 5%;
+    padding: 5rem;
+}
+
+.header {
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+#bottom {
+    padding-top: 20rem;
+}
+
+a {
+    margin-inline: 2%;
+}
